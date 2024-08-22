@@ -1,2 +1,4 @@
-# OarInternalBase
-A ImGui and Offset Base for the One Armed Robber Game. Discord: https://discord.gg/kKXZmnHSWU
+# DX11-ImGui-Hook-Internal
+
+Join the imgui discord (custom one), https://discord.gg/xmckajn5sQ
+Pls no skid off this okay?
